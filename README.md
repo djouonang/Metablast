@@ -3,7 +3,6 @@ This is a simple plugin developed to enhance the On page SEO of your website pos
 
 = Docs & Support =
 
-You can contact us at info@silentblast.com if you have any difficulties using the plugin or if you have any suggestions you wish to make to improve the plugin.
 
 
 
